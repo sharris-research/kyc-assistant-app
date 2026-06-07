@@ -1,7 +1,5 @@
 # KYC Assistant App
 
-Software Engineering & Product Management · 2025
-
 Full product development lifecycle for a FinTech compliance application - from stakeholder discovery through to UML design, agile sprint delivery, and a live deployed prototype. The app automates KYC data extraction from UK Companies House, addressing the manual, time-consuming processes that cost UK financial institutions an estimated £38.3bn in financial crime compliance annually.
 
 ## Key features
